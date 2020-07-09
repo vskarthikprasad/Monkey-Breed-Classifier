@@ -4,7 +4,8 @@
 ```
 1.Transfer Learning: MobileNet
 2.CNN
-3.DEEP LEARNING
-4.TENSORFLOW
+3.Deep Learning
+4.Tensorflow
+5.Tkinter
 
 ```
